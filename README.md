@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gustaeks
-- 👀 I’m interested in Games programing
+- 👀 I’m interested in front-end programming
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
 
